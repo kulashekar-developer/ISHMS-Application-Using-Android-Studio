@@ -1,8 +1,6 @@
 
 <img align="right" alt="Coding" width="460" src="https://raw.githubusercontent.com/kulashekar-developer/IBM-Project-28492-1660112884/main/studinlogo.png">
 
-IBM-Project-28492-1660112884
-
 |      **Project Name**     | Hostel Management Application |
 |:---------------------:|:------------------------------:|
 |         **Domain**        |  Android App Development |
